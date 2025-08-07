@@ -10,7 +10,7 @@ import AppScreen from './src/screens/AppScreen';
 import CharacterScreen from './src/screens/CharacterScreen';
 import SettingsScreen from './src/screens/SettingsScreen';
 import QuestionsScreen from './src/screens/QuestionsScreen';
-import RecordingScreen from './src/screens/RecordingScreen';
+//import RecordingScreen from './src/screens/RecordingScreen';
 import WritingScreen from './src/screens/WritingScreen';
 import MyStoriesScreen from './src/screens/MyStoriesScreen';
 import StoryDetailScreen from './src/screens/StoryDetailScreen';
